@@ -1,0 +1,8 @@
+2020-02-13T03:05:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\samdivi\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-02-13T09:31:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\samdivi\wp-includes\wp-db.php on line 2030
+
+2020-02-13T14:07:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\samdivi\wp-includes\wp-db.php on line 2030
+
+2020-02-13T21:20:14+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 20480 bytes) in C:\xampp\htdocs\samdivi\wp-content\themes\Divi\includes\builder\module\woocommerce\Rating.php on line 342
+
